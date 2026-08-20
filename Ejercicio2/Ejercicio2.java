@@ -1,6 +1,17 @@
 package ejercicio2;
 import java.util.*;
 public class Ejercicio2 {
+    /*
+    Cree un programa que solicite 2 datos por teclado, estos serán el 
+    usuario y contraseña, para este ejercicio solo se tienen 3 
+    oportunidades para el ingreso de estas credenciales, al realizar las 3 
+    oportunidades el programa se cerrará, debe considerar lo siguiente:  
+    ➢ Debe validar que el contenido ingresado no este vacío.  
+    ➢ Se sabe que las credenciales son:  
+    Usuario: PROGRA3  
+    Password: 123. 
+    
+    */
 
     public static void main(String[] args) {
         String usuario;
